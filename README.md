@@ -16,3 +16,13 @@ Output:
 
 ![image](https://user-images.githubusercontent.com/74754572/132957070-5126ea76-59b0-4ace-b94a-59f277d2e1a5.png)
 
+
+Description:
+
+Input:
+
+A 1 0-> Job A takes 1 time unit, entering the job queue at time 0.
+
+Output:
+
+6 F    Process terminated-> Job F start executing at time 6 becasue the previous job is terminated(finished)
