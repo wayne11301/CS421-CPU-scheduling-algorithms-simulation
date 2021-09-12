@@ -17,7 +17,7 @@ Output:
 ![image](https://user-images.githubusercontent.com/74754572/132957070-5126ea76-59b0-4ace-b94a-59f277d2e1a5.png)
 
 
-Description:
+### Description:
 
 Input:
 
